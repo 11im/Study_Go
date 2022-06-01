@@ -17,7 +17,7 @@
 >> Today's Song : Silk Sonic - 777  
 >>
 >> <img src = "https://image.yes24.com/goods/105016742/XL" width= "100px">
-
+>> 
 >>> hello : Hello Go World   
 >>> Var : Var Type, Declare, Change Type   
 >>> FMT : Standard I/O, Scan, Print     
@@ -28,7 +28,7 @@
 >> Today's Song : Anne Mari, Niall Horan - Our Song    
 >>
 >> <img src = "https://blog.kakaocdn.net/dn/4saAU/btq5vESBKHp/PyL2I5NK91kdDUVsxfZkV1/img.jpg" width= "110px">
-
+>> 
 >>> Calc : Basic Calculation   
 >>> Func : Declare Function, Recursive   
 >>> Const : Declare Constant, Using iota
