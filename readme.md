@@ -17,7 +17,11 @@
 >> Today's Song : Silk Sonic - 777  
 >>
 >> <img src = "https://image.yes24.com/goods/105016742/XL" width= "100px">
+<<<<<<< HEAD
 >>
+=======
+>> 
+>>>>>>> ef57d912ccab6eeec4f6ecc9c1a88f5f3a6662e0
 >>> hello : Hello Go World   
 >>> Var : Var Type, Declare, Change Type   
 
