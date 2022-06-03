@@ -17,10 +17,9 @@
 >> Today's Song : Silk Sonic - 777  
 >>
 >> <img src = "https://image.yes24.com/goods/105016742/XL" width= "100px">
-
+>>
 >>> hello : Hello Go World   
 >>> Var : Var Type, Declare, Change Type   
->>> FMT : Standard I/O, Scan, Print     
 
 <br/>
 
@@ -28,8 +27,19 @@
 >> Today's Song : Anne Mari, Niall Horan - Our Song    
 >>
 >> <img src = "https://blog.kakaocdn.net/dn/4saAU/btq5vESBKHp/PyL2I5NK91kdDUVsxfZkV1/img.jpg" width= "110px">
-
+>> 
 >>> Calc : Basic Calculation   
 >>> Func : Declare Function, Recursive   
 >>> Const : Declare Constant, Using iota
 
+<br/>
+
+> 22.06.03
+>> Today's Song : NVTHVN, Forrest - Dancing in the living room    
+>>
+>> <img src = "https://m.media-amazon.com/images/I/81MYQtKxwjL._SS500_.jpg" width= "110px">
+>> 
+>>> If : Basic If, Multi If, Initial;Condition   
+>>> Switch : Basic Switch, Condition, Const iota, Fallthrough   
+>>> For : Basic For, Continue / Break, Multi For & Lable    
+>>> Array : Decleare Array, Range, Multidimensional Array
