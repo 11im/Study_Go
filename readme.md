@@ -47,3 +47,15 @@
 >>> Switch : Basic Switch, Condition, Const iota, Fallthrough   
 >>> For : Basic For, Continue / Break, Multi For & Lable    
 >>> Array : Decleare Array, Range, Multidimensional Array
+
+<br/>
+
+> 22.06.03
+>> Today's Song : Arizona Zervas - Roxanne    
+>>
+>> <img src = "https://image.bugsm.co.kr/album/images/500/9549/954900.jpg" width= "110px">
+>> 
+>>> Structure : Declare Structure, Initialize Structure   
+>>> Switch : Basic Switch, Condition, Const iota, Fallthrough   
+>>> For : Basic For, Continue / Break, Multi For & Lable    
+>>> Array : Decleare Array, Range, Multidimensional Array
