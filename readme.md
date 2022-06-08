@@ -50,12 +50,21 @@
 
 <br/>
 
-> 22.06.03
+> 22.06.07
 >> Today's Song : Arizona Zervas - Roxanne    
 >>
 >> <img src = "https://image.bugsm.co.kr/album/images/500/9549/954900.jpg" width= "110px">
 >> 
->>> Structure : Declare Structure, Initialize Structure   
->>> Switch : Basic Switch, Condition, Const iota, Fallthrough   
->>> For : Basic For, Continue / Break, Multi For & Lable    
->>> Array : Decleare Array, Range, Multidimensional Array
+>>> Structure : Declare & Initialize Structure    
+>>> Pointer : Declare  Initialize Pointer, Instance, Garbage Collector   
+>>> String : "" vs ``, rune, range, Immutable    
+
+<br/>
+
+> 22.06.08
+>> Today's Song : Powfu - Death Bed(coffee for yout head)    
+>>
+>> <img src = "https://www.wrmf.com/wp-content/uploads/2020/06/M_PowfuDeathbed_053120.jpg" width= "110px">
+>> 
+>>> Package : Declare Package, Module, go.mod, go.sum    
+  
