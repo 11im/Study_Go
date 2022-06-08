@@ -16,7 +16,7 @@
 > 22.05.31
 >> Today's Song : Silk Sonic - 777  
 >>
->> <img src = "https://image.yes24.com/goods/105016742/XL" width= "100px">
+>> <img src = "https://image.yes24.com/goods/105016742/XL" width= "100px">    
 >>
 >>> hello : Hello Go World   
 >>> Var : Var Type, Declare, Change Type   
@@ -44,3 +44,24 @@
 >>> Switch : Basic Switch, Condition, Const iota, Fallthrough   
 >>> For : Basic For, Continue / Break, Multi For & Lable    
 >>> Array : Decleare Array, Range, Multidimensional Array
+
+<br/>
+
+> 22.06.07
+>> Today's Song : Arizona Zervas - Roxanne    
+>>
+>> <img src = "https://image.bugsm.co.kr/album/images/500/9549/954900.jpg" width= "110px">
+>> 
+>>> Structure : Declare & Initialize Structure    
+>>> Pointer : Declare  Initialize Pointer, Instance, Garbage Collector   
+>>> String : "" vs ``, rune, range, Immutable    
+>>> 
+<br/>
+
+> 22.06.08
+>> Today's Song : Powfu - Death Bed(coffee for yout head)    
+>>
+>> <img src = "https://www.wrmf.com/wp-content/uploads/2020/06/M_PowfuDeathbed_053120.jpg" width= "110px">
+>> 
+>>> Package : Declare Package, Module, go.mod, go.sum    
+  
