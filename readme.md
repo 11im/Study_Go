@@ -56,6 +56,7 @@
 >>> Pointer : Declare  Initialize Pointer, Instance, Garbage Collector   
 >>> String : "" vs ``, rune, range, Immutable    
 >>> 
+
 <br/>
 
 > 22.06.08
@@ -64,4 +65,15 @@
 >> <img src = "https://www.wrmf.com/wp-content/uploads/2020/06/M_PowfuDeathbed_053120.jpg" width= "110px">
 >> 
 >>> Package : Declare Package, Module, go.mod, go.sum    
+
+<br/>
+
+> 22.06.09
+>> Today's Song : BRELAND - My Truck    
+>>
+>> <img src = "https://cdns-images.dzcdn.net/images/cover/ffe79d067c31a4709077e73a163acae3/500x500.jpg" width= "110px">
+>> 
+>>> HitNum : Stdio, Random Int, Seed, Time    
+>>> SlotEX : Stdio, Random Int, Seed, Time    
+>>> Slice : Declare, Append, Delete, Copy ...    
   
