@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"sort"
 )
 
 func test1() {
@@ -125,6 +126,31 @@ func test7() {
 	fmt.Println(slice2)
 }
 
+type Student struct {
+	Name string
+	Age  int
+}
+
+type Students []Student
+
+func (s Students) Len() int           { return len(s) }
+func (s Students) Less(i, j int) bool { return s[i].Age < s[j].Age }
+func (s Students) Swap(i, j int)      { s[i], s[j] = s[j], s[i] }
+
+func test8() {
+	s := []int{5, 9, 7, 5, 21, 1, 11, 3, 5, 4, 8, 63, 13}
+	sort.Ints(s)
+	fmt.Println(s)
+
+	s2 := []Student{
+		{"정환", 27}, {"재범", 28}, {"민선", 25}}
+
+	sort.Sort(Students(s2))
+
+	fmt.Println(s2)
+
+}
+
 func main() {
 	// test1()
 	// test2()
@@ -132,5 +158,6 @@ func main() {
 	// test4()
 	// test5()
 	// test6()
-	test7()
+	// test7()
+	test8()
 }

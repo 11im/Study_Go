@@ -76,4 +76,15 @@
 >>> HitNum : Stdio, Random Int, Seed, Time    
 >>> SlotEX : Stdio, Random Int, Seed, Time    
 >>> Slice : Declare, Append, Delete, Copy ...    
+
+<br/>
+
+> 22.06.10
+>> Today's Song : Tracy Chapman - Give Me One Reason    
+>>
+>> <img src = "https://i.scdn.co/image/ab67616d0000b2736b38571f15487588ed53032f" width= "110px">
+>> 
+>>> Method : Declare Method, Pointer, Value    
+>>> Interface : Using Interface with Module, Convert to Another Interface or Concrete Type    
+>>> 
   
