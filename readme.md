@@ -87,4 +87,13 @@
 >>> Method : Declare Method, Pointer, Value    
 >>> Interface : Using Interface with Module, Convert to Another Interface or Concrete Type    
 >>> 
-  
+
+<br/>
+
+> 22.06.10
+>> Today's Song : Monsune - Outta My Mind    
+>>
+>> <img src = "https://image.bugsm.co.kr/album/images/500/203565/20356570.jpg" width= "110px">
+>> 
+>>> Function2 : Args, defer, Literal    
+>>> DataStructure : Queue, Stack
