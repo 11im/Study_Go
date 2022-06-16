@@ -109,3 +109,13 @@
 >> 
 >>> **DataStructure2** : Ring, Map    
 >>> **Error** : Error Handling, Recover
+
+<br/>
+
+> 22.06.14
+>> Today's Song : Earth, Wind & Fire - September    
+>>
+>> <img src = "https://i.discogs.com/5yxzXA5_vxownzJtVUYJq7QJEsVhlYSnyMdNtT6Y1DA/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTMw/OC0xNDc1NDExMzUy/LTk1ODUuanBlZw.jpeg" width= "110px">
+>> 
+>>> **Go Routine** : Lock, WaitGroup, Mutex    
+>>> **Channel** : Channel, Context
