@@ -112,10 +112,19 @@
 
 <br/>
 
-> 22.06.14
+> 22.06.16
 >> Today's Song : Earth, Wind & Fire - September    
 >>
 >> <img src = "https://i.discogs.com/5yxzXA5_vxownzJtVUYJq7QJEsVhlYSnyMdNtT6Y1DA/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTMw/OC0xNDc1NDExMzUy/LTk1ODUuanBlZw.jpeg" width= "110px">
 >> 
 >>> **Go Routine** : Lock, WaitGroup, Mutex    
 >>> **Channel** : Channel, Context
+
+<br/>
+
+> 22.06.17
+>> Today's Song : Daft Phunk - Harder, Better, Faster, Stronger    
+>>
+>> <img src = "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/079/966/905/79966905_1503049100047_1_600x600.JPG/dims/resize/Q_80,0" width= "110px">
+>> 
+>>> **SearchWord** : filepath.Glob, Scan    
