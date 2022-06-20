@@ -128,3 +128,4 @@
 >> <img src = "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/079/966/905/79966905_1503049100047_1_600x600.JPG/dims/resize/Q_80,0" width= "110px">
 >> 
 >>> **SearchWord** : filepath.Glob, Scan    
+>>> **SearchWord2** : channel    
