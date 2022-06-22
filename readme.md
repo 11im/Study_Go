@@ -5,10 +5,38 @@
 ## From : 2022.05.31
 <br/>   
 
-### Init - 상위 폴더에서 ```go mod init Directory_Name```   
-### Build - 해당 디렉토리 내에서 ```go build ```  
-### 외부 패키지 이용 - import에 "package_link" 후 go.mod 폴더에서 ```go mod tidy```
-### Local Package 이용 - import에 ```"mod_name/mod_directory/directories.../package name"```
+### Init &nbsp; : &nbsp; 상위 폴더에서   
+    go mod init Directory_Name
+<br/>
+
+### Build &nbsp; : &nbsp; 해당 디렉토리 내에서 
+    go build
+<br/>
+
+### 외부 패키지 이용 &nbsp; : &nbsp; import에 "package_link" 후 go.mod 폴더에서 
+    go mod tidy
+<br/>
+
+### Local Package 이용 &nbsp; : &nbsp; import &nbsp; ```"mod_name/mod_directory/directories.../package name"```
+<br/>
+
+### Test &nbsp; : &nbsp; Test Code는 ```(main)_test.go``` 형식으로 작성 후 해당 디렉토리에서 
+    go test
+
+### 개별 Test 수행 
+    go test -run (Test 함수 이름) 
+<br/>
+
+### Benchmark &nbsp; : &nbsp; Test를 여러 번 반복 수행
+Test Code 내에 ```func BenchmarkXxxxx(b *testing.B)``` 형식으로 작성 후
+    go test -bench
+<br/>
+
+### Package 다운로드 &nbsp; 
+    go get (package_link)   
+<br/>
+
+
 
 <br/>   
 
@@ -129,3 +157,22 @@
 >> 
 >>> **SearchWord** : filepath.Glob, Scan    
 >>> **SearchWord2** : channel    
+
+<br/>
+
+> 22.06.21
+>> Today's Song : TroyBoi - ili     
+>>
+>> <img src = "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/00/89/70/008970b7-2435-d7c9-4a40-ed633c9f8086/4430.jpg/400x400bb.jpg" width= "110px">
+>> 
+>>> **SOILID** : SRP, OCP, LSP, ISP, DIP    
+>>> **Test** : Testing Code, Benchmark    
+
+<br/>
+
+> 22.06.22
+>> Today's Song : Jay Park - Yacht     
+>>
+>> <img src = "https://image.bugsm.co.kr/album/images/500/201085/20108568.jpg" width= "110px">
+>> 
+>>> **Web Server** : Request, File Server, Test, ServeMux    
